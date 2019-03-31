@@ -1,0 +1,78 @@
+@font-face {
+    font-family: shoujin;
+    src:url("../src/华康瘦金体简W3.ttc");
+
+}
+body{
+
+}
+table {
+    font-family: weiti,serif;
+    font-size: 16px;
+    width: 100%;
+    background-image: url("../img/logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: 800px;
+    background-size: 800px;
+    border-spacing: 0px;
+}
+
+th,tr,td{
+    height: 50px;
+    width: 50px;
+    border:1px solid rgba(87, 84, 87, 0.68);
+    text-align: center;
+}
+td{
+    transition: 0.3s;
+}
+td:hover{
+    margin-top: 40px;
+    box-shadow: 0 3px 3px 3px rgba(51, 51, 51, 0.5);
+}
+.sun{
+    background: rgba(167, 163, 232, 0.08);
+    empty-cells:hide;
+    border: unset;
+}.mon{
+     background: rgba(167, 163, 232, 0.08);
+     empty-cells:hide;
+     border: unset;
+ }
+
+.tue{
+    background: rgba(167, 163, 232, 0.08);
+    empty-cells:hide;
+    border: unset;
+}.wed{
+     background: rgba(167, 163, 232, 0.08);
+     empty-cells:hide;
+     border: unset;
+ }.thu{
+      background: rgba(167, 163, 232, 0.08);
+      empty-cells:hide;
+      border: unset;
+  }.fri{
+       background: rgba(167, 163, 232, 0.08);
+       empty-cells:hide;
+       border: unset;
+   }.sat{
+        background: rgba(167, 163, 232, 0.08);
+        empty-cells:hide;
+        border: unset;
+    }
+
+a{
+    background: rgba(253, 253, 255, 0);
+    font-style: normal;
+    text-decoration: none;
+    color: #000000;
+}
+.afternoon{
+    border: initial;
+}
+video{
+    alignment: center;
+
+}
