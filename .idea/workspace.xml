@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/table.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3153">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="3660">
+              <caret line="282" column="33" lean-forward="true" selection-end-line="296" selection-end-column="7" />
               <folding>
                 <element signature="n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" />
@@ -107,6 +107,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -136,6 +139,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -232,12 +236,12 @@
       <workItem from="1553952059902" duration="559000" />
       <workItem from="1554020495658" duration="95000" />
       <workItem from="1554033141640" duration="2156000" />
-      <workItem from="1554035708863" duration="127000" />
+      <workItem from="1554035708863" duration="425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21174000" />
+    <option name="totallyTimeSpent" value="21472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="746" y="0" width="1174" height="1200" extended-state="6" />
@@ -330,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/table.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3153">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="3660">
+          <caret line="282" column="33" lean-forward="true" selection-end-line="296" selection-end-column="7" />
           <folding>
             <element signature="n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" />
